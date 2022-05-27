@@ -1,2 +1,2 @@
 # CSS-GRID
-Creación de una página utilizando CSS GRID
+Creación de una página de comida utilizando CSS GRID
